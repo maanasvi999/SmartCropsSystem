@@ -2,7 +2,7 @@
 
 1. IBM Watson Studio
 2. IBM Watson Machine Learning
-3. IBM Watson IOT Platform
+3. IBM Watson IoT Platform
 4. NodeRED Application
 5. Arduino IDE
 
@@ -16,7 +16,7 @@ Data for different crops regarding their optimum requirements of N, P, K (Nitrog
 
 The algorithm used is Random Forest Mutli-classification Algorithm for better accuracy than Decision Tree.
 
-Accuracy: 0.9933
+Accuracy: 99%
 
 The ML model has been connected to a Web Application developed using NodeRED Platform with the help of an API.
 
